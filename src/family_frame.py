@@ -99,7 +99,7 @@ def create_family_frame(container, show_main_frame):
     back_button = ttk.Button(
         friends_frame,
         text="Voltar ao Menu",
-        bootstyle="outline-secondary",  # Cor do botão
+        bootstyle="secondary",  # Cor do botão
         command=show_main_frame,
     )
     back_button.pack(pady=20)
