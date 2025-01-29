@@ -2,23 +2,29 @@ import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 from tkinter import Frame, Label
 from PIL import Image, ImageTk, ImageFont, ImageDraw
+from frames.functions.assets_frame import create_text_image_PIL
+from services.select_card import filtram_perguntas
 import os
+import random
 
-
-def create_text_image(text, font, text_color, bg_color):
-    """Cria uma imagem a partir de um texto usando a fonte personalizada."""
-    text_bbox = font.getbbox(text)  # Obtém a caixa delimitadora do texto
-    text_width = text_bbox[2] - text_bbox[0]
-    text_height = text_bbox[3] - text_bbox[1]
-    image = Image.new("RGBA", (text_width + 20, text_height + 20), bg_color)
-    draw = ImageDraw.Draw(image)
-    draw.text((10, 10), text, font=font, fill=text_color)
-
-    return image  # Retorna a imagem PIL
+def prox_question(perguntas_familia, card_text):
+    """Seleciona uma nova pergunta aleatória e atualiza o texto do cartão."""
+    if perguntas_familia:  # Verifica se ainda há perguntas
+        pergunta_aleatoria = random.choice(perguntas_familia)
+        card_text.config(text="Quem é mais provável de " + pergunta_aleatoria)
+        perguntas_familia.remove(pergunta_aleatoria)  # Remove a pergunta usada
+    else:
+        card_text.config(text="Não há mais perguntas! \n (╥﹏╥)")
 
 
 def create_family_frame(container, show_main_frame):
     """Cria e retorna o frame do modo Familia."""
+    
+     # Carrega as perguntas do modo familia
+    perguntas_familia = filtram_perguntas(["Familia"])
+    # Seleciona a primeira pergunta e a remove
+    pergunta_aleatoria = random.choice(perguntas_familia)
+    perguntas_familia.remove(pergunta_aleatoria)
 
     # Configuração das cores e fonte personalizada
     bg_color = "#f5f5dc"
@@ -78,7 +84,7 @@ def create_family_frame(container, show_main_frame):
     # Texto do cartão
     card_text = Label(
         card_frame,
-        text="Quem é mais provável de ...",
+        text="Quem é mais provável de " + pergunta_aleatoria,
         font=("Georgia", 14),
         wraplength=400,
         justify="center",
@@ -86,14 +92,14 @@ def create_family_frame(container, show_main_frame):
     card_text.pack(expand=True)
 
     # Criando imagem para o botão "Próxima Carta"
-    next_button_pil = create_text_image("Próxima Carta", custom_font, text_color, bg_color)
+    next_button_pil = create_text_image_PIL("Próxima Carta", custom_font, text_color, bg_color)
     next_button_image = ImageTk.PhotoImage(next_button_pil)
 
     # Botão "Próxima Carta"
     next_button = Label(friends_frame, image=next_button_image, bg=bg_color, cursor="hand2")
     next_button.image = next_button_image  # Mantém referência
     next_button.pack(pady=20)
-    next_button.bind("<Button-1>", lambda event: print("Próxima carta clicada!"))
+    next_button.bind("<Button-1>", lambda event: prox_question(perguntas_familia, card_text))
 
     # Criando botão de voltar (usando ttkbootstrap)
     back_button = ttk.Button(
