@@ -1,4 +1,5 @@
 from PIL import Image, ImageTk, ImageDraw
+import random
 
 # Função para criar texto como imagem com a fonte personalizada
 def create_text_image_Tk(text, font, text_color, bg_color):
@@ -21,4 +22,56 @@ def create_text_image_PIL(text, font, text_color, bg_color):
     draw.text((10, 10), text, font=font, fill=text_color)
 
     return image  # Retorna a imagem PIL
+
+def animate_text(label, new_text, step=2, interval=30):
+    """
+    Animação de fade-out e fade-in para alterar o texto de um Label.
+
+    label: Label do tkinter que será animado.
+    new_text: Novo texto a ser exibido.
+    step: Intensidade da redução/aumento do tamanho da fonte.
+    interval: Intervalo de tempo entre etapas, em milissegundos.
+    """
+    original_font = label.cget("font")  # Obtém a fonte original
+    font_name, font_size, *font_style = original_font.split()  # Divide a fonte
+
+    font_size = 14
+
+    def shrink_text(size):
+        if size > 5:  # Tamanho mínimo antes de trocar o texto
+            label.config(font=(font_name, size, *font_style))
+            label.after(interval, shrink_text, size - step)
+        else:
+            label.config(text=new_text)
+            grow_text(5)  # Começa a aumentar o texto novamente
+
+    def grow_text(size):
+        if size < font_size:
+            label.config(font=(font_name, size, *font_style))
+            label.after(interval, grow_text, size + step)
+
+    shrink_text(font_size)  # Inicia o efeito de fade-out
+
+
+
+def prox_question(perguntas, card_text):
+    """Seleciona uma nova pergunta aleatória e atualiza o texto do cartão com animação."""
+    # Obtém o texto atual da Label
+    current_text = card_text.cget("text")  
+
+    # Se já estiver exibindo a mensagem final, não faz nada
+    if current_text == "Não há mais perguntas! \n (╥﹏╥)":
+        return  
+
+    # Se ainda houver perguntas, seleciona uma nova
+    if perguntas:
+        pergunta_aleatoria = random.choice(perguntas)
+        new_text = "Quem é mais provável de " + pergunta_aleatoria
+        perguntas.remove(pergunta_aleatoria)  # Remove a pergunta usada
+    else:
+        new_text = "Não há mais perguntas! \n (╥﹏╥)"
+
+    # Chama a animação apenas se o texto for realmente mudar
+    if new_text != current_text:
+        animate_text(card_text, new_text)
 

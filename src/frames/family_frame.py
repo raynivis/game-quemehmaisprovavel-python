@@ -1,21 +1,11 @@
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 from tkinter import Frame, Label
-from PIL import Image, ImageTk, ImageFont, ImageDraw
-from frames.functions.assets_frame import create_text_image_PIL
+from PIL import Image, ImageTk, ImageFont
+from frames.functions.assets_frame import create_text_image_PIL, prox_question
 from services.select_card import filtram_perguntas
 import os
 import random
-
-def prox_question(perguntas_familia, card_text):
-    """Seleciona uma nova pergunta aleatória e atualiza o texto do cartão."""
-    if perguntas_familia:  # Verifica se ainda há perguntas
-        pergunta_aleatoria = random.choice(perguntas_familia)
-        card_text.config(text="Quem é mais provável de " + pergunta_aleatoria)
-        perguntas_familia.remove(pergunta_aleatoria)  # Remove a pergunta usada
-    else:
-        card_text.config(text="Não há mais perguntas! \n (╥﹏╥)")
-
 
 def create_family_frame(container, show_main_frame):
     """Cria e retorna o frame do modo Familia."""

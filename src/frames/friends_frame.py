@@ -1,20 +1,11 @@
-import ttkbootstrap as ttk
+import ttkbootstrap as ttk 
 from ttkbootstrap.constants import *
 from tkinter import Frame, Label
 from PIL import Image, ImageTk, ImageFont
-from frames.functions.assets_frame import create_text_image_PIL
+from frames.functions.assets_frame import create_text_image_PIL, prox_question
 from services.select_card import filtram_perguntas
 import os
 import random
-
-def prox_question(perguntas_amigos, card_text):
-    """Seleciona uma nova pergunta aleatória e atualiza o texto do cartão."""
-    if perguntas_amigos:  # Verifica se ainda há perguntas
-        pergunta_aleatoria = random.choice(perguntas_amigos)
-        card_text.config(text="Quem é mais provável de " + pergunta_aleatoria)
-        perguntas_amigos.remove(pergunta_aleatoria)  # Remove a pergunta usada
-    else:
-        card_text.config(text="Não há mais perguntas! \n (╥﹏╥)")
 
 def create_friends_frame(container, show_main_frame):
     """Cria e retorna o frame do modo Amigos."""
@@ -98,7 +89,7 @@ def create_friends_frame(container, show_main_frame):
     next_button = Label(friends_frame, image=next_button_image, bg=bg_color, cursor="hand2")
     next_button.image = next_button_image  # Mantém referência
     next_button.pack(pady=20)
-    next_button.bind("<Button-1>", lambda event: prox_question(perguntas_amigos, card_text))
+    next_button.bind( "<Button-1>", lambda event: prox_question(perguntas_amigos, card_text))
 
     # Criando botão de voltar (usando ttkbootstrap)
     back_button = ttk.Button(
