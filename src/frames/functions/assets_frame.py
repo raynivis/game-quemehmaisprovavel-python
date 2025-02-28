@@ -1,5 +1,7 @@
 from PIL import Image, ImageTk, ImageDraw
 import random
+import pygame
+
 
 # Função para criar texto como imagem com a fonte personalizada
 def create_text_image_Tk(text, font, text_color, bg_color):
@@ -75,3 +77,23 @@ def prox_question(perguntas, card_text):
     if new_text != current_text:
         animate_text(card_text, new_text)
 
+
+def play_music():
+    # Inicializa o mixer do pygame
+    pygame.mixer.init()
+    # Carrega a música
+    pygame.mixer.music.load("assets/theme - quem eh mais prop.mp3")
+    pygame.mixer.music.set_volume(0.2)
+    # Reproduz a música
+    pygame.mixer.music.play(loops=-1)
+    
+def pause_music(music_button):
+    if pygame.mixer.music.get_busy():  # Verifica se a música está tocando
+        pygame.mixer.music.pause()
+        music_button.config(text="🔇")  # Altera o texto do botão
+    else:
+        pygame.mixer.music.unpause()
+        music_button.config(text="🔊")  # Altera o texto do botão
+
+    
+    
