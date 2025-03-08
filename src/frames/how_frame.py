@@ -15,7 +15,7 @@ def create_how_frame(container, show_main_frame):
     "Reúna pelo menos 3 amigos, seja em uma chamada de vídeo ou presencialmente.\n\n "
     "Um jogador será o responsável por ler as perguntas usando o aplicativo.\n\n\n"
     "📢 Como funciona?\n\n"
-    "1. O jogador da vez lê a pergunta do aplicativo, como: 'Quem é mais provável de chegar atrasado em um encontro?'\n\n"
+    "1. O jogador responsável lê a pergunta do aplicativo, como: 'Quem é mais provável de chegar atrasado em um encontro?'\n\n"
     "2. Todos discutem (ou só riem mesmo 😂) e apontam para quem acham que combina mais com a situação.\n\n"
     "3. O mais votado paga um desafio ou, para os maiores de idade, toma um shot! 🍹\n\n"
     "Lembre-se: beba com moderação e, acima de tudo, se divirta! 🎊"
