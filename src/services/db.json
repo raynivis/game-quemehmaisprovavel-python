@@ -1,0 +1,1182 @@
+[
+  {
+    "Id": 1,
+    "Hora de inicio": "28/01/2025 15:45",
+    "Hora de conclusao": "28/01/2025 15:45",
+    "Email": "anonymous",
+    "Nome": "",
+    "Autor/a da Pergunta:": "Jose Henrique da Silva",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "cair de skate.",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 2,
+    "Hora de inicio": "29/01/2025 07:43",
+    "Hora de conclusao": "29/01/2025 07:43",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "eni",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "trair o amigo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 3,
+    "Hora de inicio": "29/01/2025 07:44",
+    "Hora de conclusao": "29/01/2025 07:46",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "fugir de casa",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 4,
+    "Hora de inicio": "29/01/2025 07:57",
+    "Hora de conclusao": "29/01/2025 07:57",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "sandra",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "faltar no serviço",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 5,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "comer comida estragada",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 6,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar famoso",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 7,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer o próprio aniversário",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 8,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se perder em uma cidade desconhecida",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 9,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "comer uma pizza inteira sozinho",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 10,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar um milionário",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 11,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "dormir durante uma reunião importante",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 12,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "fugir para se juntar ao circo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 13,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ter um fetiche estranho",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 14,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "namorar primeiro",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 15,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ficar bravo por conta do videogame",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 16,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "participar do BBB e ser o campeão",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 17,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "bater o carro",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 18,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ficar bêbado mais rápido",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 19,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se sacrificar por um amigo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 20,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ficar com um crush do amigo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 21,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "colocar fogo na cozinha enquanto faz comida",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 22,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "nunca ter filhos",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 23,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ganhar uma eleição",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 24,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ser o primeiro a morrer em um apocalipse zumbi",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 25,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "fazer uma cirurgia plástica",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 26,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar padre",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 27,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se atrasar para o seu próprio casamento",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 28,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "rir em um momento errado",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 29,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "colocar os amigos em uma situação constrangedora",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 30,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ser 'cancelado'",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 31,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "chorar por causa de um filme triste",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 32,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "encontrar um relacionamento no Tinder",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 33,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ficar louco",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 34,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ser um alienígena",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 35,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "comer algo do chão",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 36,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ter sentimentos por alguém depois de uma noite juntos",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 37,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir um filme só para agradar alguém",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 38,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ser expulsa de uma festa",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 39,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar freira",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 40,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se casar com um sugar daddy",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 41,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar a tia do zap",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 42,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se 'vitizimar' por nenhum motivo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 43,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ajudar a amiga/o a cometer um crime",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 44,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "ter fetiche por pés",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 45,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "cometer um assassinato",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 46,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se casar primeiro",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 47,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer o nome de alguém que acabou de conhecer",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 48,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "dormir em uma festa",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 49,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer o aniversário do próprio melhor amigo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 50,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "web namorar",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 51,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "falar sozinho em público",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 52,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir ao mesmo filme mil vezes",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 53,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer de pagar uma conta",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 54,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar consertar algo e acabar piorando",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 55,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se perder em um shopping",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 56,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "dormir do nada em uma conversa",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 57,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "rir de uma piada que só ele entendeu",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 58,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se tornar um meme viral",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 59,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se apaixonar por um colega de trabalho",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 60,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se envolver em uma briga por causa de comida",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 61,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se perder em um parque",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 62,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "flertar com o garçom/garçonete",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 63,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "enviar uma mensagem bêbado(a) para o(a) ex",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 64,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "dar em cima de alguém comprometido",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 65,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "mentir sobre a idade em um app de relacionamento",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 66,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "postar uma foto seminu/a nas redes sociais",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 67,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se perder em uma festa e acordar em um lugar estranho",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 68,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se envolver com alguém só por tédio",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 69,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar seduzir alguém com uma dança",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 70,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se declarar para alguém por mensagem",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 71,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar reconquistar o(a) ex",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 72,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se envolver com alguém só para fazer ciúmes",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 73,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "flertar com o(a) melhor amigo(a) do(a) parceiro(a)",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 74,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se envolver com alguém mais novo(a)",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 75,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se envolver com alguém mais velho(a)",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 76,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar um * com mais de um pareceiro",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 77,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "flertar com o(a) professor(a)",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 78,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar um relacionamento aberto",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 79,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se apaixonar por alguém em um jogo online",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 80,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar seduzir alguém com um presente caro",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 81,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "de ficar de casal com alguém em uma festa",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 82,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar um relacionamento virtual",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 83,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar seduzir alguém fazendo gracinhas",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 84,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "fazer a \"dieta do gelo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 85,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "de namorar apenas pelo Dia dos Namorados",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 86,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar consertar algo e piorar a situação",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 87,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir a um jogo de futebol e torcer para o time errado",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 88,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar uma dieta maluca e desistir no segundo dia",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 89,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer de levar o lixo para fora",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 90,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir a um filme de terror e gritar no primeiro susto",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 91,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar uma receita nova e queimar a panela",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 92,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer de pagar a conta de luz",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 93,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar uma atividade física nova e se machucar",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 94,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir a um filme de ação e imitar as cenas",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 95,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar uma nova dieta e comer um doce no mesmo dia",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 96,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar uma nova atividade e desistir no primeiro dia",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 97,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "assistir a um filme de ficção científica e tentar explicar a trama",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 98,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "esquecer de levar as crianças para a escola",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 99,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar uma teoria da conspiração sobre gatos dominarem o mundo",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 100,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se disfarçar de estátua na rua só para ver as reações das pessoas",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 101,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar viralizar no TikTok",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 102,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se candidatar a prefeito",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 103,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar um clube secreto só para pessoas que gostam de abacaxi na pizza",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 104,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar um canal no YouTube só para falar de plantas ilegais",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 105,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar um clube de fãs de si mesmo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 106,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar criar um idioma novo e ensinar para os amigos",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 107,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar convencer os outros de que a Terra é plana usando argumentos absurdos",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 108,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "manter uma mentira por uma semana",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 109,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar criar um perfume com cheiro de gasolina",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 110,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar sobreviver uma semana só comendo miojo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 111,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar convencer os outros de como funciona viagem do tempo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 112,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar um culto baseado em uma teoria maluca sobre gatos serem alienígenas",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 113,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se disfarçar de mendigo",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 114,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar se comunicar com fantasmas usando Ouija",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 115,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "tentar ensinar um papagaio a cantar heavy metal",
+    "Modelo da Pergunta": "Familia"
+  },
+  {
+    "Id": 116,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "criar um podcast",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 117,
+    "Hora de inicio": "29/01/2025 08:00",
+    "Hora de conclusao": "29/01/2025 08:00",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "ray",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "nunca achar que está errado",
+    "Modelo da Pergunta": "Amigo"
+  },
+  {
+    "Id": 118,
+    "Hora de inicio": "45687,49473",
+    "Hora de conclusao": "45687,49519",
+    "Email": "anônima",
+    "Nome": "",
+    "Autor/a da Pergunta:": "sandra",
+    "Pergunta (\"Quem e mais provavel de [Campo de Resposta]\"):": "se engasgar com saliva",
+    "Modelo da Pergunta": "Familia"
+  }
+]
