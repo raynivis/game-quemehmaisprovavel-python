@@ -1,9 +1,10 @@
 import ttkbootstrap as ttk
-from tkinter import Label, Frame
+from tkinter import Label, Frame, messagebox
 from PIL import Image, ImageTk, ImageFont
 from frames.functions.assets_frame import create_text_image_Tk, play_music, pause_music
 from frames.friends_frame import create_friends_frame
 from frames.family_frame import create_family_frame
+from frames.how_frame import create_how_frame
 import os
 
 # Função para sair do modo fullscreen ao pressionar "Esc"
@@ -53,6 +54,9 @@ family_frame.place(relx=0, rely=0, relwidth=1, relheight=1)
 friends_frame = create_friends_frame(container, lambda: show_frame(main_frame))
 friends_frame.place(relx=0, rely=0, relwidth=1, relheight=1)
 
+# Frame Como jogar
+how_frame = create_how_frame(container, lambda: show_frame(main_frame))
+how_frame.place(relx=0, rely=0, relwidth=1, relheight=1)
 
 # Funções para os botões do menu
 def cartas_familia(event=None):
@@ -60,6 +64,15 @@ def cartas_familia(event=None):
 
 def cartas_amigos(event=None):
     show_frame(friends_frame)
+    
+def como_jogar(event=None):
+    show_frame(how_frame)
+    
+# Função para confirmar saída
+def confirm_exit():
+    resposta = messagebox.askyesno("Sair", "Tem certeza que deseja sair do jogo?")
+    if resposta:  # Se clicar em "Sim", fecha o jogo
+        root.quit()
 
 # Título com imagem
 try:
@@ -75,7 +88,7 @@ except FileNotFoundError:
 # Botões personalizados com eventos de clique e cursor "mão"
 family_text = create_text_image_Tk("Cartas para a Família", custom_font, text_color, bg_color)
 family_button = Label(main_frame, image=family_text, bg=bg_color, cursor="hand2")
-family_button.pack(pady=15)
+family_button.pack(pady=10)
 family_button.bind("<Button-1>", cartas_familia)  # Adiciona evento de clique
 
 friends_text = create_text_image_Tk("Cartas para os Amigos", custom_font, text_color, bg_color)
@@ -83,14 +96,36 @@ friends_button = Label(main_frame, image=friends_text, bg=bg_color, cursor="hand
 friends_button.pack(pady=10)
 friends_button.bind("<Button-1>", cartas_amigos)  # Adiciona evento de clique
 
-# Botão para pausar/retomar a música
+custom_font_how = ImageFont.truetype(font_path, 14)  # Carrega a fonte personalizada
+
+
+
+# Adicionando os botões ao frame
+how_text = create_text_image_Tk("Como jogar?", custom_font_how, text_color, bg_color)
+how_button = Label(main_frame, image=how_text, bg=bg_color, cursor="hand2")
+how_button.pack(pady=10)
+how_button.bind("<Button-1>", como_jogar)
+
+# Criando um frame para organizar os botões na horizontal
+button_frame = Frame(main_frame, bg=bg_color)
+button_frame.pack(pady=5)
+
 music_button = ttk.Button(
-    main_frame,
-    text="🔊",  # Texto inicial do botão
-    command=lambda: pause_music(music_button),  # Usa lambda para passar o botão como argumento
-    style="light.TButton",  # Estilo do botão (pode ser alterado)
+    button_frame,
+    text="🔊",
+    command=lambda: pause_music(music_button),
+    style="light.TButton",
 )
-music_button.pack(pady=10)
+music_button.pack(side="left", padx=5)
+
+# Criando o botão de saída com modal de confirmação
+exit_button = ttk.Button(
+    button_frame,
+    text="⏻",
+    command=confirm_exit,  # Chama a função ao clicar
+    style="light.TButton",
+)
+exit_button.pack(side="left", padx=5)
 
 
 # Exibe o frame principal inicialmente
